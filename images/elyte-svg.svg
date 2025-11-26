@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="4944px" height="2158px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 12939.33 5648.02"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="665" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="400">
+	<font-face 
+		font-family="Agency">
+		<font-face-src>
+			<font-face-name name="Agency Regular"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="E" horiz-adv-x="602" d="M66.0002 688l504.999 0 -27.9995 -113 -359.001 0 0 -168 290 0 0 -116 -290 0 0 -175.999 359.001 0 27.9995 -115 -504.999 0 0 688z"/>
+   <glyph unicode="L" horiz-adv-x="491" d="M183.999 689l0 -567.999 283 0 0 -118 -400.999 0 0 686 117.999 0z"/>
+   <glyph unicode="T" horiz-adv-x="522" d="M7.00014 569.999l0 118 482 0 0 -118 -182 0 0 -566.999 -118 0 0 566.999 -181.999 0z"/>
+   <glyph unicode="Y" horiz-adv-x="599" d="M291.999 393c14.0003,22.6664 28.1676,46.6658 42.5009,71.9993 14.3333,25.3335 28.8325,50.834 43.4998,76.5005 14.6662,25.6665 29.3336,51.1659 43.9998,76.4994 14.6662,25.3335 29.6665,48.9999 44.9998,71.0003l133 0 -254.001 -428 0 -261 -111.999 0 0 261 -255.001 428 134.001 0 178.999 -295.999z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Agency";font-variant:normal;font-style:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .str0 {stroke:black;stroke-width:278.19;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+    .fnt0 {font-weight:normal;font-size:2831.25px;font-family:'Agency'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2161552400208">
+   <rect class="fil0 str0" transform="matrix(1.61114 -1.61114 1.61114 1.61114 196.703 3491.54)" width="1216.4" height="1216.4"/>
+   <rect class="fil0 str0" transform="matrix(1.61114 -1.61114 1.61114 1.61114 196.703 2876.84)" width="1216.4" height="1216.4"/>
+   <rect class="fil0 str0" transform="matrix(1.61114 -1.61114 1.61114 1.61114 196.703 2156.49)" width="1216.4" height="1216.4"/>
+  </g>
+  <text x="5459.17" y="4823.17"  class="fil1 fnt0">ELYTE</text>
+ </g>
+</svg>
