@@ -15,25 +15,28 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    
     <main id="main">
         <div class="container">
-            <div class="banner-wraper">
-                <p>Photo by <a href="https://www.instagram.com/italo_teixeira3/" target="_blank">Italo Teixeira</a></p>
-            </div><!--/banner-wraper-->
-            <div class="form-wraper">
-                <section class="header-form">
+            <div class="hero-side">
+                <p>Photo by <a href="">Italo Teixeira</a></p>
+            </div><!--/hero-side-->
+
+            <div class="form-container">
+                <section class="form-section-header-wraper">
                     <p>
                         This is not a real online service! You know you need something
                         like this in your life to help you realize your deepest dreams.
                         Sign up <em>now</em> to get started.
                     </p>
-                    <p>You <em>know</em> you want to.</p>
-                </section><!--section-header-form-->
+                    <p>
+                        You <em>know</em> you want to.
+                    </p>
+                </section><!--/form-section-header-wraper-->
 
-                <section class="form-section">
+                <section class="form-wraper">
                     <h2>Let's do this!</h2>
-                    <form action="" method="post" id="formRegister">
+
+                    <form action="" id="formRegister">
                         <div class="row">
                             <div class="field">
                                 <label for="firstName">FIRST NAME*</label>
@@ -44,7 +47,6 @@
                                 <input required type="text" name="lastName" id="lastName">
                             </div><!--/field-->
                         </div><!--/row-->
-
                         <div class="row">
                             <div class="field">
                                 <label for="email">EMAIL*</label>
@@ -52,10 +54,9 @@
                             </div><!--/field-->
                             <div class="field">
                                 <label for="phoneNumber">PHONE NUMBER (optional)</label>
-                                <input type="tel" name="phoneNumber" id="phoneNumber" placeholder="(00) 00000-0000">
+                                <input type="text" name="phoneNumber" id="phoneNumber">
                             </div><!--/field-->
                         </div><!--/row-->
-
                         <div class="row">
                             <div class="field">
                                 <label for="password">PASSWORD*</label>
@@ -66,16 +67,18 @@
                                 <input required type="password" name="confirmPassword" id="confirmPassword">
                             </div><!--/field-->
                         </div><!--/row-->
-                    </form>
-                </section><!--/form-section-->
-                <section class="footer-form-section">
-                    <button type="submit" form="formRegister" id="buttonRegister">Create Account</button>
+                    </form><!--/form-->
+                </section><!--/form-wraper-->
 
-                    <p>Already have an account? <a href="">Log in</a></p>
-                </section>
-            </div><!--/form-wraper-->
+                <section class="footer-form-wraper">
+                    <button type="submit" class="button" form="formRegister">Creat Account</button>
+
+                    <p>Already have an account? <a href="login.html" target="_blank">Log in</a></p>
+                </section><!--/footer-form-wraper-->
+            </div><!--/form-container-->
         </div><!--/container-->
     </main><!--/main-->
+    
 
 </body>
 </html>
