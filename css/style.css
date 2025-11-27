@@ -6,7 +6,7 @@
     --deep-black: #020204;
     --cyber-blue: #1F4B6E;
     --blue-glow: #29688F;
-    --placeholer: #6F8FA8;
+    --placeholder: #6F8FA8;
 
     /* neutral colors */
     --soft-white: #F3F3EE;
@@ -150,7 +150,7 @@ form .row .field {
 .field input {
     padding: 8px 0 8px 10px;
     border-radius: var(--radius);
-    border: 1px solid var(--placeholer);
+    border: 1px solid var(--placeholder);
     color: var(--text-color-button);
     font-family: var(--title-font);
     font-size: var(--fs-labels);
